@@ -1,0 +1,9 @@
+{
+  "files": {
+    "/py/api.py": "./api.py",
+    "/py/ui_helpers.py": "./ui_helpers.py",
+    "/py/reminders.py": "./reminders.py",
+    "/py/calendar_ui.py": "./calendar_ui.py",
+    "/py/library_ui.py": "./library_ui.py"
+  }
+}
